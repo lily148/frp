@@ -26,7 +26,7 @@ const (
 	NotFound = `<!DOCTYPE html>
 <html>
 <head>
-<title>Not Found</title>
+<title>Smart Gateway | IBEYOND SMART SDN BHD</title>
 <style>
     body {
         width: 35em;
@@ -36,12 +36,14 @@ const (
 </style>
 </head>
 <body>
-<h1>The page you visit not found.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>The server is powered by <a href="https://github.com/fatedier/frp">frp</a>.</p>
-<p><em>Faithfully yours, frp.</em></p>
+<h1><a href='https://ibeyondsmart.com'><img src='https://ibeyondsmart.com/wp-content/uploads/2018/10/Logo-Light_01f800340.png' data-at2x='https://ibeyondsmart.com/wp-content/uploads/2018/10/Logo-Light_01f800340@2x.png' alt /></a></h1>
+<p>The address might be invalid or Smart Gateway is not connected to internet.<br/>
+Please make sure enter the correct Smart Gateway link and it is connected to internet.<br />
+Then try again.</p>
+<p>Powered by <a href="https://ibeyondsmart.com">IBEYOND SMART SDN BHD</a></p>
+<p><em>Smart Gateway from IBEYOND SMART SDN BHD</em></p>
 </body>
+
 </html>
 `
 )
