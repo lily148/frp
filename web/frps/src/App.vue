@@ -2,7 +2,7 @@
     <div id="app">
         <header class="grid-content header-color">
             <el-row>
-                <a class="brand" href="#">frp</a>
+                <a class="brand" href="#">Smart Gateway Dashboard</a>
             </el-row>
         </header>
         <section>
@@ -38,7 +38,7 @@
         methods: {
             handleSelect(key, path) {
                 if (key == '') {
-                    window.open("https://github.com/fatedier/frp")
+                    window.open("https://ibeyondsmart.com")
                 }
             }
         }
